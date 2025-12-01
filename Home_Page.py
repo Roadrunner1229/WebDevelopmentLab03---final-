@@ -18,7 +18,7 @@ st.image("test_image.png", use_container_width=True, caption="Our Lab03 Project 
 # --- Introduction and Page Descriptions ---
 st.write("""
 Welcome to our **Streamlit Web Development Lab03** app!  
-Use the **sidebar** or the **page links below** to explore each section of our project.  
+Use the **sidebar** to explore each section of our project.  
 
 ### 📑 Page Overview
 1. **Home Page** — Project introduction, team information, and page descriptions.  
