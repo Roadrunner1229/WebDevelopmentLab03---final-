@@ -13,7 +13,7 @@ st.subheader("Team Members: Nishan Watson (Section A, 8:25AM), Sriyash Tantia (S
 
 # --- 📸 Image Banner ---
 # Make sure our images are saved inside the "Images" folder
-st.image("Images/test_image.png", use_container_width=True, caption="Our Lab03 Project Banner")
+st.image("test_image.png", use_container_width=True, caption="Our Lab03 Project Banner")
 
 # --- Introduction and Page Descriptions ---
 st.write("""
